@@ -17,6 +17,7 @@ You'll need the following installed, but we'll check for it in the Jupyter noteb
 ### 🎯 Usage 
 
 - Open the Jupyter Notebook (bionlp.ipynb)
+- Deploy the BioMedical NLP container to Azure ☁️
 - Satisfy requirements.txt 
 - Run through the cells
 
