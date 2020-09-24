@@ -1,0 +1,4 @@
+azure-ai-textanalytics --pre
+spacy
+requests
+pathlib
